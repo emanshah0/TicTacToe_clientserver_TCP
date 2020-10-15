@@ -1,5 +1,7 @@
 # Tic Tac Toe Multiplayer
-C code project for a connection-oriented client program that will allow a user to interactively play Tic-Tac-Toe against the computerized server program.
+C code project for a connection-oriented client program that will allow a user to interactively play Tic-Tac-Toe against the computerized server program
+
+Use the -h flag for instructions on how to play!
 
 ## Usage
 ```bash
